@@ -11,7 +11,7 @@ def train():
     print("..........Training model..........\n")
     
 
-    print("..........Training completed.......... :)")
+    print("..........Training completed in branch feature-model .......... :)")
 
 if __name__ == "__main__" :
     train()
