@@ -1,11 +1,15 @@
 import pandas as pd
 import numpy as np
 
-data = pd.read_csv("data\Housing.csv")
+def load_data():
+ data = pd.read_csv("data\Housing.csv")
+ return data
+
 def train():
     print("data loading\n")
+    data = load_data()
     print("..........Training model..........\n")
-
+    
 
     print("..........Training completed.......... :)")
 
