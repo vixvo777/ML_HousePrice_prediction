@@ -1,10 +1,11 @@
 .venv/
 __pycache__/
 *.pyc
-.mlflow/
+
+mlflow.db
 mlruns/
 artifacts/
 models/
+
 data/house_prices.csv
 reports/figures/
-.DS_Store
