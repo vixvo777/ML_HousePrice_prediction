@@ -6,4 +6,4 @@ Project structure:
 - `models/` — trained models
 - `notebooks/` — Jupyter notebooks
 - `src/` — source code
-- `requirements.txt` — Python dependencies
+
